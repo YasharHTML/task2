@@ -1,0 +1,11 @@
+{
+    "name": "task2",
+    "author": "YasharHTML",
+    "devDependencies": {
+        "@types/uuid": "^9.0.5",
+        "typescript": "^5.2.2"
+    },
+    "dependencies": {
+        "uuid": "^9.0.1"
+    }
+}
